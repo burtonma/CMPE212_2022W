@@ -9,8 +9,6 @@ The course notebooks are interactive Jupyter notebooks using the beakerx 1.x ker
 
 Students who are having difficulty installing Jupyter and the beakerx kernels can view the notebooks online:
 
-https://mybinder.org/v2/gh/burtonma/CMPE212-Winter-2022/main?filepath=toc.ipynb
-
 https://mybinder.org/v2/gh/burtonma/CMPE212_2022W/HEAD?labpath=notebooks%2Ftoc.ipynb
 
 ## eclipse project
