@@ -1,4 +1,4 @@
-name: CISC124_Fall_2021
+name: CMPE212_Winter_2022
 channels:
   - conda-forge
 dependencies:
