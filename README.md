@@ -11,6 +11,8 @@ Students who are having difficulty installing Jupyter and the beakerx kernels ca
 
 https://mybinder.org/v2/gh/burtonma/CMPE212-Winter-2022/main?filepath=toc.ipynb
 
+https://mybinder.org/v2/gh/burtonma/CMPE212_2022W/HEAD?labpath=notebooks%2Ftoc.ipynb
+
 ## eclipse project
 
 The file CMPE212_2022W.zip is the eclipse project archive containing (almost) all of the source code used in the Jupyter notebooks.
